@@ -1,0 +1,91 @@
+.form {}
+
+/*===============
+Base & Reset
+===============*/
+/*form group*/
+.form .form-group {}
+.form input {}
+.form select {}
+.form textarea {}
+
+/*===============
+Layout
+===============*/
+/*form layout*/ 
+.form .form-layout {}
+.form .form-layout .form-layout__right {}
+.form .form-layout .form-layout__left {}
+.form .form-layout .form-layout__center {}
+
+/*===============
+Components
+===============*/
+/*form checkbox*/
+.form .form__checkbox {}
+.form .form__checkbox label {}
+.form .form__checkbox input[type="checkbox"] {}
+
+/*form content*/
+.form .form__content {}
+.form .form__content h1 {}
+.form .form__content h2 {}
+.form .form__content p {}
+.form .form__content span {}
+
+/*form text*/
+.form .form__text {}
+.form .form__text input {}
+
+/*form select*/
+.form .form__select {}
+.form .form__select select {}
+
+/*form button*/
+.form .form__button {}
+.form .form__button a {}
+.form .form__button button {}
+.form .form__button input[type="submit"] {}
+.form .form__button input[type="button"] {}
+
+
+/*===============
+Status
+===============*/
+.form .form__text.is-default {}
+.form .form__text.is-default input {}
+
+.form .form__text.is-alert {}
+.form .form__text.is-alert input {}
+
+.form .form__text.is-success {}
+.form .form__text.is-success input {}
+
+.form .form__text.is-disable {}
+.form .form__text.is-disable input {}
+
+/*===============
+Style
+===============*/
+.form .style-block {}
+.form .style-ghost {}
+
+.form .style-shadow {}
+
+.form .style-radius-sm {}
+.form .style-radius-md {}
+.form .style-radius-lg {}
+
+/*===============
+Module
+===============*/
+.form .login {}
+.form .telephone {}
+.form .address {}
+
+/*---------------*/
+.c-form {}
+.c-form .form__checkbox {}
+.c-form .form__content {}
+.c-form .form__text {}
+.c-form .form__select {}
